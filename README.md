@@ -2,7 +2,7 @@
 
 ### Bonnie E. Shook-Sa, Paul N. Zivich, Carolyn Taylor, David Dodwell, Jake Probert, Sarah C Darby, and Paul McGale
 
-**Citation**: Shook-Sa BE, Zivich PN, Taylor C, Dodwell D, Probert J, Darby SC, McGale P. "Transporting summary measures of relative effects from randomised trials to the treated patient population: an application to breast cancer endocrine therapy." 
+**Citation**: Shook-Sa BE, Zivich PN, Taylor C, Dodwell D, Probert J, Darby SC, McGale P. "Transporting summary measures of relative effects from randomised trials to the treated patient population: an application to breast cancer endocrine therapy." https://arxiv.org/abs/2609.24305
 --------------------------------
 
 ## Abstract
